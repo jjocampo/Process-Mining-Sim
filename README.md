@@ -1,6 +1,6 @@
 # Process-Mining-Sim
 
-<b>Purpose:</b> 
+<b>Purpose:  </b> 
 Explore processing mining to become familiar with techniques and development, as well as understand potential applications. 
 
 <b>Methods: </b>
